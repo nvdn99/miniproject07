@@ -36,16 +36,8 @@ Access the application through the provided server URL (http://localhost:3001 by
 Navigate to the "Add a Car" section to input details and add a new car.
 Visit the "Car List" section to view the list of all added cars.
 
-# MW-Miniproject6
-# MW-Miniproject6
-# mwproject6
-# mwproject6
-# mwproject6
-# mwproject6
-# mwproject6
-# mwproject6
-# mwminiproject7
-# mwminiproject7
+
+
 # mwminiproject7
 # miniproject07
 # miniproject07
